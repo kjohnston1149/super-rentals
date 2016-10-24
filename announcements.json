@@ -1,0 +1,14 @@
+{ "announcements": [{
+    "title": "Hot Deals!",
+    "description": "We got the best!!!!",
+    "date": "2087"
+  }, {
+    "title": "Talk by Json Param",
+    "description": "Get inspired by a real super-runner!",
+    "date": "2087"
+  }, {
+    "title": "House BOat rentals",
+    "description": "Learn about the latest rental trend to deal with the rising seas!",
+    "date": "February 32, 2087"
+  }]
+}

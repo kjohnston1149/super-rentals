@@ -4,5 +4,6 @@
     <p><img src={{rental.image}} alt={{rental.type}} {{action 'imageHide'}}></p>
   {{else}}
     <button {{action 'imageShow'}}>Show Image</button>
-    {{/if}}
+  {{/if}}
+  <button {{action 'delete' rental}}>Delete Rental</button>
 </li>

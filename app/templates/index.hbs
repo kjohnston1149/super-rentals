@@ -7,7 +7,7 @@
 
   <ul>
     {{#each model.rentals as |rental|}}
-      {{rental-tile rental=rental}}
+      {{rental-popularity rental}}{{rental-tile rental=rental}}
     {{/each}}
   </ul>
 
@@ -20,7 +20,7 @@
     {{/each}}
   </ul>
 
-  
+
 
   <hr>
 
